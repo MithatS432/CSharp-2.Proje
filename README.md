@@ -1,2 +1,2 @@
-# CSharp-2.Proje
+# C#-2.Proje
 MerhabaDünya2
