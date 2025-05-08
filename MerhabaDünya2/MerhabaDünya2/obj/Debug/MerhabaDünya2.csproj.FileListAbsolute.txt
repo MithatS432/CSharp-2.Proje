@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\MerhabaDünya2\MerhabaDünya2\bin\Debug\MerhabaDünya2.exe.config
+C:\Users\mitha\source\repos\MerhabaDünya2\MerhabaDünya2\bin\Debug\MerhabaDünya2.exe
+C:\Users\mitha\source\repos\MerhabaDünya2\MerhabaDünya2\bin\Debug\MerhabaDünya2.pdb
+C:\Users\mitha\source\repos\MerhabaDünya2\MerhabaDünya2\obj\Debug\MerhabaDünya2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\MerhabaDünya2\MerhabaDünya2\obj\Debug\MerhabaDünya2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\MerhabaDünya2\MerhabaDünya2\obj\Debug\MerhabaDünya2.exe
+C:\Users\mitha\source\repos\MerhabaDünya2\MerhabaDünya2\obj\Debug\MerhabaDünya2.pdb
